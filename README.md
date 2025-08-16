@@ -13,9 +13,13 @@ interesarme como funcionan algunas cosas, siendo que empece a ver que era progra
 ![sonic](./d5b88b45655b89b33ff6d1dc2df982ff_w200.gif)
 
 Mi primer plan era la robotica, pero tras descubrir que es mas divertido probar cosas con hardware de computadoras y software, asi que decidi estudiar algo relacionado a las computadoras, 
-este caso la mencionada licenciatura en informatica
+este caso la mencionada licenciatura en informatica.
+
+Actualmente vivo en Moreno, a un par de cuadras de la estacion, con mi pareja y mis gatos. Ademas tengo una cuenta de instagram donde subo cosas que voy haciendo con computadoras
+sea arreglarlas, limpiarlas o armarlas.
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo 3 gatos:Grey, una calico de 7 años, Kira, una callejera de 1 año y medio aprox, y Flan, un gato siames de menos de 1 año y hijo de kira
+- Tengo 3 gatos: Grey, una calico de 7 años, Kira, una callejera de 1 año y medio aprox, y Flan, un gato siames de menos de 1 año y hijo de kira
 - Actualmente trabajo para mi tio en una ferreteria, pero busco activamente una oportunidad laboral en el mundo del IT
+- Mi cuenta donde subo cosas de computadoras es @gordocompu.Ok
