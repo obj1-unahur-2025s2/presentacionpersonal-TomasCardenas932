@@ -18,7 +18,7 @@ este caso la mencionada licenciatura en informatica.
 Actualmente vivo en Moreno, a un par de cuadras de la estacion, con mi pareja y mis gatos. Ademas tengo una cuenta de instagram donde subo cosas que voy haciendo con computadoras
 sea arreglarlas, limpiarlas o armarlas. Tambien me gusta mucho el entrenamiento fisico, siendo que un dia me interesa participar en alguna competencia del deporte Powerlifting
 
-
+![Floppa](./GR9lXlhWkAAQOc_.png)
 
 ### Datos extras
 - Este es mi primer contacto con github
