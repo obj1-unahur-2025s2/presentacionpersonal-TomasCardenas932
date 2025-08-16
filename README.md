@@ -16,9 +16,11 @@ Mi primer plan era la robotica, pero tras descubrir que es mas divertido probar 
 este caso la mencionada licenciatura en informatica.
 
 Actualmente vivo en Moreno, a un par de cuadras de la estacion, con mi pareja y mis gatos. Ademas tengo una cuenta de instagram donde subo cosas que voy haciendo con computadoras
-sea arreglarlas, limpiarlas o armarlas.
+sea arreglarlas, limpiarlas o armarlas. Tambien me gusta mucho el entrenamiento fisico, siendo que un dia me interesa participar en alguna competencia del deporte Powerlifting
 
-### Otra Información
+
+
+### Datos extras
 - Este es mi primer contacto con github
 - Tengo 3 gatos: Grey, una calico de 7 años, Kira, una callejera de 1 año y medio aprox, y Flan, un gato siames de menos de 1 año y hijo de kira
 - Actualmente trabajo para mi tio en una ferreteria, pero busco activamente una oportunidad laboral en el mundo del IT
