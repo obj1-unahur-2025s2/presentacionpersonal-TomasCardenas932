@@ -10,8 +10,7 @@ y apunto a continuar con la licenciatura en informatica cuando termine la tecnic
 Desde muy chico tuve un gusto hacia las computadoras y en especial a los videojuegos, a dia de hoy recuerdo mi primer juego, el Sonic en la Sega Genesis. Conforme paso el tiempo empece a 
 interesarme como funcionan algunas cosas, siendo que empece a ver que era programar y como funcionaban las cosas por detras.
 
-![sonic](./<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9629dadf-164d-44c6-9152-c869d2ed4fe9" />
-)
+![sonic](./d5b88b45655b89b33ff6d1dc2df982ff_w200.gif)
 
 Mi primer plan era la robotica, pero tras descubrir que es mas divertido probar cosas con hardware de computadoras y software, asi que decidi estudiar algo relacionado a las computadoras, 
 este caso la mencionada licenciatura en informatica
